@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\Sameer\1st Semester\PF\A_21F-9083_TikTakToe\Tik tak toe game\Tik tak toe game\Source.cpp(93,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Sameer\1st Semester\PF\A_21F-9083_TikTakToe\Tik tak toe game\Tik tak toe game\Source.cpp(214,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Sameer\1st Semester\PF\A_21F-9083_TikTakToe\Tik tak toe game\Tik tak toe game\Source.cpp(284): warning C4715: 'winning_condition': not all control paths return a value
+F:\Sameer\1st Semester\PF\A_21F-9083_TikTakToe\Tik tak toe game\Tik tak toe game\Source.cpp(303): warning C4715: 'draw_condition': not all control paths return a value
+  Tik tak toe game.vcxproj -> F:\Sameer\1st Semester\PF\A_21F-9083_TikTakToe\Tik tak toe game\Debug\Tik tak toe game.exe
