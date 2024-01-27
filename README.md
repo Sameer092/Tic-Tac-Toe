@@ -23,7 +23,7 @@ These are the softwares you need to install before getting started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | Instructions
+## Tic-Tac-Toe | Setup Instructions
   
 1. Clone This Repository
    ```sh
