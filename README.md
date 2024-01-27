@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-## Tic-Tac-Toe | Introduction
+## Tic-Tac-Toe | Description
 
 Tic Tac Toe, a classic two-player game, is implemented in C++. 
 Players take turns marking a 3x3 grid with 'X' or 'O' to achieve
@@ -56,7 +56,6 @@ These are the softwares you need to install before getting started.
 * Ensure you have Visual Studio installed with support for C++ development.
 * If there are any missing dependencies, follow the prompts from Visual Studio to install them.
 * Make sure to set the correct startup project before running the game.
-* If you encounter any issues, check the issues section or feel free to open a new issue for assistance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +74,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | SnapShots
+## Tic-Tac-Toe | Screenshots
 
 ## `Game-Module`
 
