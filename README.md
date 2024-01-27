@@ -43,7 +43,7 @@ Don't forget to give the project a star! Thanks again!
 ## `User-Module`
 
 ### Landing Page
-![image](https://user-images.githubusercontent.com/110775919/205733439-a64f7658-7fc7-445c-909f-78b004ad6648.png)
+![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/ChooseOptions.png)
 ### Who's There?
 ![image](https://user-images.githubusercontent.com/110775919/205733591-962a5916-a086-49cc-b01d-8ea7c72003d1.png)
 ### User/Login
