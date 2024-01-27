@@ -11,63 +11,15 @@ if the grid is filled without a winner.
 
 ## Tik-Tac-Toe | Tools & Technology
 
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-* <img src="https://img.shields.io/badge/C++3-1572B6?style=for-the-badge&logo=c++3&logoColor=white" />
-* <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-* <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-* <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-* <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-* <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+* <img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++&logoColor=white" />
 * <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Cenflix | Prerequisites
+## Tik-Tac-Toe | Prerequisites
 
 These are the softwares you need to install before getting started.
-- NodeJS
-- NPM
-- MySQL
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Cenflix | Installation
-  
-1. Clone This Repository
-
-   ```sh
-   https://github.com/Dawood-Usman/Cenflix.git
-
-2. Install NPM Packages
-   ```sh
-   npm install 
-
-3. Enter Your DataBase Credentials in `config/sequelize.js`
-   ```js
-   const sequelize = new Sequelize(
-    'DataBase_Name',
-    'UserName',
-    'Password',
-    {
-        host: 'HostName',
-        dialect: 'mysql'
-    });
-    
-4. Enter Your Email Credentials in `config/transporter.js`
-   ```js
-    let transporter = nodemailer.createTransport({
-    host: "smtp.gmail.email",
-    service: "gmail",
-    auth: {
-      user: "Your_Email",
-      pass: "App_Password",
-    }
-    });
-    
-
-5. Get Started With The Command
-   ```sh
-   node index.js 
+- Visual Studio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
