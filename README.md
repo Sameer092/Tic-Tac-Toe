@@ -26,31 +26,31 @@ These are the softwares you need to install before getting started.
 ## Tic-Tac-Toe | Instructions
   
 1. Clone This Repository
-
+   ```sh
    https://github.com/Sameer092/Tic-Tac-Toe.git
 
 2. Open the Project in Visual Studio
 
-Launch Visual Studio.
-Select File > Open > Project/Solution.
-Navigate to the cloned repository directory and open the .sln file (Visual Studio solution file).
+   Launch Visual Studio.
+   Select File > Open > Project/Solution.
+   Navigate to the cloned repository directory and open the .sln file (Visual Studio solution file).
 
 3. Build the Project
 
-In Visual Studio, press Ctrl + Shift + B or select Build > Build Solution to compile the C++ code.
+   In Visual Studio, press Ctrl + Shift + B or select Build > Build Solution to compile the C++ code.
 
 4. Set the Startup Project
 
-Right-click on the project in the Solution Explorer.
-Choose Set as Startup Project.
+   Right-click on the project in the Solution Explorer.
+   Choose Set as Startup Project.
 
 5. Run the Game
 
-Press F5 or select Debug > Start Debugging to run the Tic Tac Toe game.
+   Press F5 or select Debug > Start Debugging to run the Tic Tac Toe game.
 
 6. Play the Game
 
-Follow the on-screen instructions to play the game. Input your moves based on the displayed grid.
+   Follow the on-screen instructions to play the game. Input your moves based on the displayed grid.
 
 ### Notes
 * Ensure you have Visual Studio installed with support for C++ development.
