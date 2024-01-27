@@ -11,7 +11,7 @@ if the grid is filled without a winner.
 
 ## Tic-Tac-Toe | Tools & Technology
 
-* <img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++&logoColor=white" />
+* <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 * <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
