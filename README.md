@@ -23,7 +23,7 @@ These are the softwares you need to install before getting started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Cenflix | Contributing
+## Tik-Tac-Toe | Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -38,7 +38,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Cenflix | SnapShots
+## Tik-Tac-Toe | SnapShots
 
 ## `User-Module`
 
@@ -100,14 +100,8 @@ Don't forget to give the project a star! Thanks again!
 ![image](https://user-images.githubusercontent.com/110775919/205738800-0095db69-0590-429b-8151-334a2a8420c3.png)
 
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
-<p align="center"> © 2022 Dawood Usman, All Rights Reserved. </p>
+<p align="center"> © 2024 Muhammad Sameer, All Rights Reserved. </p>
 <p align="center">
-https://github.com/Dawood-Usman
+https://github.com/Sameer092
 </p>
